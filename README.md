@@ -12,7 +12,8 @@
 #### 💻 System & Hardware
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat&logo=fedora&logoColor=white)
-
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=apple&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![BIOS](https://img.shields.io/badge/-BIOS%2FUEFI-2D2D2D?style=flat)
