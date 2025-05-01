@@ -15,7 +15,6 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white)
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=apple&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![BIOS](https://img.shields.io/badge/-BIOS%2FUEFI-2D2D2D?style=flat)
 ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/-LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=white)
