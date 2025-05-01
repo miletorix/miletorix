@@ -22,6 +22,7 @@
 
 #### 🌐 Web Development
 ![VuePress](https://img.shields.io/badge/-VuePress-42b883?style=flat&logo=vuedotjs&logoColor=white)
+![VitePress](https://img.shields.io/badge/-VitePress-646CFF?style=flat&logo=vite&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-181717?style=flat&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![DNS](https://img.shields.io/badge/-DNS%20Config-2D2D2D?style=flat)
