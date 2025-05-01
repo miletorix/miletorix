@@ -1,9 +1,8 @@
-<h1 align="center">Hey, I'm a Computer Science Teacher 👨‍🏫</h1>
+<h1 align="center">Hey, I'm a Computer Science Teacher</h1>
 
 <p align="center">
-  Passionate about tech, curious by nature.<br>
-  Helping students learn programming the clear and simple way.<br>
-  🧠 Critical of AI hype – I value human reasoning.
+  Tech enthusiast, always eager to explore new ideas.<br>
+  🧠 Skeptical of AI hype – I believe in the power of human insight.
 </p>
 
 ---
@@ -12,6 +11,8 @@
 
 #### 💻 System & Hardware
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=apple&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![BIOS](https://img.shields.io/badge/-BIOS%2FUEFI-2D2D2D?style=flat)
 ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
@@ -28,12 +29,16 @@
 ![DNS](https://img.shields.io/badge/-DNS%20Config-2D2D2D?style=flat)
 
 #### 🎨 Multimedia Tools
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![GIMP](https://img.shields.io/badge/-GIMP-D32F2F?style=flat&logo=gimp&logoColor=white)
+![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=flat&logo=inkscape&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-000000?style=flat&logo=blackmagicdesign&logoColor=white)
 ![OBS Studio](https://img.shields.io/badge/-OBS%20Studio-302E31?style=flat&logo=obsstudio&logoColor=white)
 ![Audacity](https://img.shields.io/badge/-Audacity-0000CC?style=flat&logo=audacity&logoColor=white)
 ![Photopea](https://img.shields.io/badge/-Photopea-18A497?style=flat)
 
 #### 🧰 Code & Prototyping
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
