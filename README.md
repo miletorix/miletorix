@@ -62,6 +62,19 @@
 |[vitepress-youtube-embed](https://github.com/miletorix/vitepress-youtube-embed)|![npm](https://img.shields.io/npm/v/@miletorix/vitepress-youtube-embed)|![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-youtube-embed)|![license](https://img.shields.io/npm/l/@miletorix/vitepress-youtube-embed)|Vue component to embed responsive YouTube videos in VitePress markdown pages using a simple syntax.|
 |[vitepress-enhanced-site-links](https://github.com/miletorix/vitepress-enhanced-site-links)|![npm](https://img.shields.io/npm/v/@miletorix/vitepress-enhanced-site-links)|![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-enhanced-site-links)|![license](https://img.shields.io/npm/l/@miletorix/vitepress-enhanced-site-links)|Vue components for enhanced link cards in VitePress.|
 
+---
+
+## 💻 PC Rig
+
+- 🖥️ **Case**: Define 7 Compact  
+- 🧠 **Motherboard**: B850 AORUS ELITE WIFI7 ICE  
+- 🔧 **CPU**: AMD Ryzen 7 7700X   
+- ❄️ **Cooler**: Deepcool AG620  
+- 🎮 **GPU**: ZOTAC GeForce RTX 4060 Ti 16GB  
+- ⚡ **RAM**: G.SKILL Flare X5 2×16GB DDR5 6000MHz  
+- 💾 **Storage**: Kingston KC3000 2TB + 1TB NVMe  
+- 🔌 **PSU**: Cooler Master MWE Gold 750 V2
+- 💡 **OS**: Windows + Fedora
 
 
 <!---
