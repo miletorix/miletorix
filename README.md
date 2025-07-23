@@ -28,7 +28,6 @@
 ![VitePress](https://img.shields.io/badge/-VitePress-646CFF?style=flat&logo=vite&logoColor=white)
 ![Hugo](https://img.shields.io/badge/-Hugo-ff4088?style=flat&logo=Hugo&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![p5.js](https://img.shields.io/badge/-p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-80B3FF?style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
@@ -47,12 +46,25 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![p5.js](https://img.shields.io/badge/-p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-79d4fd?style=flat&logo=Go&logoColor=black)
 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF3A00?style=flat&logo=autodesk&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
 
 ---
+
+## 📦 My GitHub Projects
+
+| Plugin | Version | Downloads | License | Description |
+|--------|---------|---------| ---------| -------------|
+|[vitepress-back-to-top-button](https://github.com/miletorix/vitepress-back-to-top-button)|![npm](https://img.shields.io/npm/v/@miletorix/vitepress-back-to-top-button)|![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-back-to-top-button)|![license](https://img.shields.io/npm/l/@miletorix/vitepress-back-to-top-button)| A lightweight Back-to-Top button Vue 3 component for VitePress. Features smooth scroll, progress ring indicating scroll percentage, dark/light theme support. |
+|[vitepress-image-group](https://github.com/miletorix/miletorix-vitepress-image-group)|![npm](https://img.shields.io/npm/v/@miletorix/vitepress-image-group)|![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-image-group)|![license](https://img.shields.io/npm/l/@miletorix/vitepress-image-group)|Vue 3 component to render responsive image groups with automatic layout styling (big, double or icon).|
+|[vitepress-html-preview](https://github.com/miletorix/vitepress-html-preview)|![npm](https://img.shields.io/npm/v/@miletorix/vitepress-html-preview)|![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-html-preview)|![license](https://img.shields.io/npm/l/@miletorix/vitepress-html-preview)|A Vue component for embedding external HTML files via `iframe` in VitePress. It’s useful for showcasing interactive demos with full HTML, CSS, and JavaScript support.|
+|[vitepress-youtube-embed](https://github.com/miletorix/vitepress-youtube-embed)|![npm](https://img.shields.io/npm/v/@miletorix/vitepress-youtube-embed)|![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-youtube-embed)|![license](https://img.shields.io/npm/l/@miletorix/vitepress-youtube-embed)|Vue component to embed responsive YouTube videos in VitePress markdown pages using a simple syntax.|
+|[vitepress-enhanced-site-links](https://github.com/miletorix/vitepress-enhanced-site-links)|![npm](https://img.shields.io/npm/v/@miletorix/vitepress-enhanced-site-links)|![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-enhanced-site-links)|![license](https://img.shields.io/npm/l/@miletorix/vitepress-enhanced-site-links)|Vue components for enhanced link cards in VitePress.|
+
+
 
 <!---
 miletorix/miletorix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
