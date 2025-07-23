@@ -26,7 +26,6 @@
 #### 🌐 Web Development
 ![VuePress](https://img.shields.io/badge/-VuePress-42b883?style=flat&logo=vuedotjs&logoColor=white)
 ![VitePress](https://img.shields.io/badge/-VitePress-646CFF?style=flat&logo=vite&logoColor=white)
-![Hugo](https://img.shields.io/badge/-Hugo-ff4088?style=flat&logo=Hugo&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-80B3FF?style=flat&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -47,7 +46,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![p5.js](https://img.shields.io/badge/-p5.js-ED225D?style=flat&logo=p5dotjs&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-79d4fd?style=flat&logo=Go&logoColor=black)
 ![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FF3A00?style=flat&logo=autodesk&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
