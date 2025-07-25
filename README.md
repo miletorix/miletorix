@@ -1,15 +1,13 @@
-<h1 align="center">Hey, I'm a Computer Science Teacher</h1>
+## Hey, I'm a Computer Science Teacher
 
-<p align="center">
-  Tech enthusiast, always eager to explore new ideas.<br>
-  🧠 Skeptical of AI hype – I believe in the power of human insight.
-</p>
+- Tech enthusiast, always eager to explore new ideas
+- 🧠 Skeptical of AI hype – I believe in the power of human insight.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-#### 💻 System & Hardware
+### 💻 System & Hardware
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Fedora](https://img.shields.io/badge/-Fedora-294172?style=flat&logo=fedora&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
@@ -19,11 +17,11 @@
 ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/-LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=white)
 
-#### ⚙️ Automation & Scripting
+### ⚙️ Automation & Scripting
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Batch](https://img.shields.io/badge/-Batch%20Scripts-4B4B4B?style=flat)
 
-#### 🌐 Web Development
+### 🌐 Web Development
 ![VuePress](https://img.shields.io/badge/-VuePress-42b883?style=flat&logo=vuedotjs&logoColor=white)
 ![VitePress](https://img.shields.io/badge/-VitePress-646CFF?style=flat&logo=vite&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
@@ -32,7 +30,7 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 ![DNS](https://img.shields.io/badge/-DNS%20Config-2D2D2D?style=flat)
 
-#### 🎨 Multimedia Tools
+### 🎨 Multimedia Tools
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
 ![GIMP](https://img.shields.io/badge/-GIMP-D32F2F?style=flat&logo=gimp&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=flat&logo=inkscape&logoColor=white)
@@ -41,7 +39,7 @@
 ![Audacity](https://img.shields.io/badge/-Audacity-0000CC?style=flat&logo=audacity&logoColor=white)
 ![Photopea](https://img.shields.io/badge/-Photopea-18A497?style=flat)
 
-#### 🧰 Code & Prototyping
+### 🧰 Code & Prototyping
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -56,6 +54,7 @@
 
 | Plugin | Version | Downloads | License | Description |
 |--------|---------|---------| ---------| -------------|
+|[vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer)|![npm](https://img.shields.io/npm/v/@miletorix/vitepress-image-viewer)|![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-image-viewer)|![license](https://img.shields.io/npm/l/@miletorix/vitepress-image-viewer)|VitePress image viewer with zoom, drag, fullscreen overlay, captions and download button. Automatically enhances all images on the page. Built with Vue 3.|
 |[vitepress-back-to-top-button](https://github.com/miletorix/vitepress-back-to-top-button)|![npm](https://img.shields.io/npm/v/@miletorix/vitepress-back-to-top-button)|![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-back-to-top-button)|![license](https://img.shields.io/npm/l/@miletorix/vitepress-back-to-top-button)| A lightweight Back-to-Top button Vue 3 component for VitePress. Features smooth scroll, progress ring indicating scroll percentage, dark/light theme support. |
 |[vitepress-image-group](https://github.com/miletorix/miletorix-vitepress-image-group)|![npm](https://img.shields.io/npm/v/@miletorix/vitepress-image-group)|![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-image-group)|![license](https://img.shields.io/npm/l/@miletorix/vitepress-image-group)|Vue 3 component to render responsive image groups with automatic layout styling (big, double or icon).|
 |[vitepress-html-preview](https://github.com/miletorix/vitepress-html-preview)|![npm](https://img.shields.io/npm/v/@miletorix/vitepress-html-preview)|![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-html-preview)|![license](https://img.shields.io/npm/l/@miletorix/vitepress-html-preview)|A Vue component for embedding external HTML files via `iframe` in VitePress. It’s useful for showcasing interactive demos with full HTML, CSS, and JavaScript support.|
