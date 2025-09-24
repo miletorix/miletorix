@@ -5,7 +5,7 @@
 
 ![Top Languages](https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=miletorix&layout=compact&theme=dark#gh-dark-mode-only)
 
-[![miletorix's GitHub stats](https://github-readme-stats.vercel.app/api?username=miletorix&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
+[![miletorix's GitHub stats](https://github-readme-stats.vercel.app/api?username=miletorix&show_icons=true&theme=dark#gh-dark-mode-only&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
