@@ -3,9 +3,10 @@
 - Tech enthusiast, always eager to explore new ideas
 - 🧠 Skeptical of AI hype – I believe in the power of human insight.
 
-![Top Languages](https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=miletorix&layout=compact&theme=dark#gh-dark-mode-only)
+![Top Languages](https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=miletorix&layout=compact&theme=dark)
 
-![miletorix's GitHub stats](https://github-readme-stats.vercel.app/api?username=miletorix&hide=contribs,prs&show_icons=true&theme=dark#gh-dark-mode-only)
+![miletorix's GitHub stats](https://github-readme-stats.vercel.app/api?username=miletorix&hide=contribs,prs&show_icons=true&theme=dark)
+
 
 
 ---
@@ -57,6 +58,29 @@
 
 ## 📦 My GitHub Projects
 
+<a href="https://github.com/miletorix/vitepress-image-viewer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-image-viewer&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/miletorix/vitepress-back-to-top-button">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-back-to-top-button&theme=dark#gh-dark-mode-only" />
+</a>
+<!-- <hr/> -->
+<a href="https://github.com/miletorix/vitepress-enhanced-site-links">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-enhanced-site-links&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/miletorix/vitepress-gallery">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-gallery&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/miletorix/vitepress-html-preview">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-html-preview&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/miletorix/vitepress-youtube-embed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-youtube-embed&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/miletorix/miletorix-vitepress-image-group">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=miletorix-vitepress-image-group&theme=dark#gh-dark-mode-only" />
+</a>
+<!--
 | Plugin | Version | Downloads | License | Description |
 |--------|---------|---------| ---------| -------------|
 |[vitepress-image-viewer](https://github.com/miletorix/vitepress-image-viewer)|![npm](https://img.shields.io/npm/v/@miletorix/vitepress-image-viewer)|![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-image-viewer)|![license](https://img.shields.io/npm/l/@miletorix/vitepress-image-viewer)|VitePress image viewer with zoom, drag, fullscreen overlay, captions and download button. Automatically enhances all images on the page. Built with Vue 3.|
@@ -66,7 +90,7 @@
 |[vitepress-html-preview](https://github.com/miletorix/vitepress-html-preview)|![npm](https://img.shields.io/npm/v/@miletorix/vitepress-html-preview)|![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-html-preview)|![license](https://img.shields.io/npm/l/@miletorix/vitepress-html-preview)|A Vue component for embedding external HTML files via `iframe` in VitePress. It’s useful for showcasing interactive demos with full HTML, CSS, and JavaScript support.|
 |[vitepress-youtube-embed](https://github.com/miletorix/vitepress-youtube-embed)|![npm](https://img.shields.io/npm/v/@miletorix/vitepress-youtube-embed)|![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-youtube-embed)|![license](https://img.shields.io/npm/l/@miletorix/vitepress-youtube-embed)|Vue component to embed responsive YouTube videos in VitePress markdown pages using a simple syntax.|
 |[vitepress-enhanced-site-links](https://github.com/miletorix/vitepress-enhanced-site-links)|![npm](https://img.shields.io/npm/v/@miletorix/vitepress-enhanced-site-links)|![npm](https://img.shields.io/npm/dw/@miletorix/vitepress-enhanced-site-links)|![license](https://img.shields.io/npm/l/@miletorix/vitepress-enhanced-site-links)|Vue components for enhanced link cards in VitePress.|
-
+-->
 
 ---
 
