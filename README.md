@@ -3,6 +3,8 @@
 - Tech enthusiast, always eager to explore new ideas
 - 🧠 Skeptical of AI hype – I believe in the power of human insight.
 
+![Top Languages](https://github-stats-git-main-m3dkatas-projects.vercel.app/api/top-langs/?username=miletorix&layout=compact)
+
 [![miletorix's GitHub stats](https://github-readme-stats.vercel.app/api?username=miletorix)](https://github.com/anuraghazra/github-readme-stats)
 
 
