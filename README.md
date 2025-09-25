@@ -59,26 +59,26 @@
 ## 📦 My GitHub Projects
 
 <a href="https://github.com/miletorix/vitepress-image-viewer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-image-viewer&theme=dark#gh-dark-mode-onlyhide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-image-viewer&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/miletorix/vitepress-back-to-top-button">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-back-to-top-button&theme=dark#gh-dark-mode-onlyhide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-back-to-top-button&theme=dark&hide_border=true" />
 </a>
 <!-- <hr/> -->
 <a href="https://github.com/miletorix/vitepress-enhanced-site-links">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-enhanced-site-links&theme=dark#gh-dark-mode-onlyhide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-enhanced-site-links&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/miletorix/vitepress-gallery">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-gallery&theme=dark#gh-dark-mode-onlyhide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-gallery&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/miletorix/vitepress-html-preview">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-html-preview&theme=dark#gh-dark-mode-onlyhide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-html-preview&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/miletorix/vitepress-youtube-embed">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-youtube-embed&theme=dark#gh-dark-mode-onlyhide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=vitepress-youtube-embed&theme=dark&hide_border=true" />
 </a>
 <a href="https://github.com/miletorix/miletorix-vitepress-image-group">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=miletorix-vitepress-image-group&theme=dark#gh-dark-mode-onlyhide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=miletorix&repo=miletorix-vitepress-image-group&theme=dark&hide_border=true" />
 </a>
 <!--
 | Plugin | Version | Downloads | License | Description |
